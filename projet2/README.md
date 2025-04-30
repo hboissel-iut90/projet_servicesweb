@@ -2,21 +2,18 @@
 ### Groupe de S4-A composé de Nathan Ponthieu et de Harry Boisselot
 
 ## Project setup
+
+### Installer les dépendances avec la commande ci-dessous dans {votre_dossier_racine}/projet2/frontend ainsi que dans {votre_dossier_racine}/projet2/backend
 ```
-npm install
+npm i
 ```
 
-### Compiles and hot-reloads for development
+### Pour finir, lancer le backend et le frontend avec les commandes suivants :
+Pour le frontend :
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+Pour le backend :
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+node server.js
 ```
