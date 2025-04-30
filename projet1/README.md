@@ -26,9 +26,9 @@ node server.js
 ```
 {
     "development": {
-        "username": "",                  <- Entrer votre nom d'utilisateur 
-        "password": "",                  <- Entrer votre mot de passe
-        "database": "bd_passportlocal",  <- Ici, changer le nom de la base de données que vous utiliserez
+        "username": "",                 // <- Entrer votre nom d'utilisateur 
+        "password": "",                 // <- Entrer votre mot de passe
+        "database": "bd_passportlocal", // <- Ici, changer le nom de la base de données que vous utiliserez
         "host": "localhost",
         "port": 5432,
         "dialect": "postgres"
