@@ -9,11 +9,21 @@ npm i
 ```
 
 
+### Puis aller dans le dossier {votre_dossier_racine}/projet1/backend ,
+### il vous faudra ensuite créer si n'est pas déjà fait un fichier qui sera nommer ".env".
+
+```
+touch .env
+```
+
+### Dans celui-ci, il vous faudra saisir l'adresse DB_HOST (ici, ça sera localhost), le numéro de port (ici, ça sera 5432),
+### votre nom d'utilisateur, mot de passe ainsi que le nom de la base de données de votre base de données.
+
 ```
 DB_HOST=localhost
 DB_USERNAME=
 DB_PASSWORD=
-DB_DATABASE=bdd_node_1
+DB_DATABASE=
 DB_PORT=5432
 ```
 
