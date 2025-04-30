@@ -16,7 +16,7 @@ npm i
 touch .env
 ```
 
-### Dans celui-ci, il vous faudra saisir l'adresse DB_HOST (ici, ça sera localhost), le numéro de port (ici, ça sera 5432),
+### Dans celui-ci, il vous faudra saisir l'adresse d'hôte (ici, ça sera localhost), le numéro de port (ici, ça sera 5432),
 ### votre nom d'utilisateur, mot de passe ainsi que le nom de la base de données de votre base de données.
 
 ```
